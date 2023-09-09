@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I am full stack web developer who loves to work with Django, Reactjs, Nextjs and TailwindCSS.
+I am a passionate full-stack web developer with a strong affinity for building web applications using a modern tech stack. My expertise lies in Django for the backend, React.js and Next.js for the frontend, and Tailwind CSS for styling. 
 
 *   🌍  I'm based in Dhaka
 *   ✉️  You can contact me at [saswemailme@gmail.com](mailto:saswemailme@gmail.com)
