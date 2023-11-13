@@ -7,7 +7,7 @@ Full Stack Web Developer
 I am a passionate full-stack web developer with a strong affinity for building web applications using a modern tech stack. My expertise lies in Django for the backend, React.js and Next.js for the frontend, and Tailwind CSS for styling. 
 
 *   🌍  I'm based in Dhaka
-*   ✉️  You can contact me at [saswemailme@gmail.com](mailto:saswemailme@gmail.com)
+*   ✉️  You can contact me at [theshamimahsan@gmail.com](mailto:theshamimahsan@gmail.com)
 
 ### Skills 
 <p align="left">
