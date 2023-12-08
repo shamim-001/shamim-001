@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shamim Ahsan
 ====================================================================================================================================
 
-Full Stack Web Developer
+Web Developer
 ------------------------
 
-I am a passionate full-stack web developer with a strong affinity for building web applications using a modern tech stack. My expertise lies in Django for the backend, React.js and Next.js for the frontend, and Tailwind CSS for styling. 
+As a web developer,I specialize in building high-quality websites with a focus on performance, scalability, and user experience. My expertise allows me to create dynamic and responsive web applications that meet the unique needs of my clients. I am proficient in a variety of modern technologies and frameworks, including React.js, Next.js, TypeScript, TailwindCSS, Supabase, and Prisma.
 
 *   🌍  I'm based in Dhaka
 *   ✉️  You can contact me at [theshamimahsan@gmail.com](mailto:theshamimahsan@gmail.com)
