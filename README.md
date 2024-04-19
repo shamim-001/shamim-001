@@ -1,12 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shamim Ahsan
 ====================================================================================================================================
 
-Web Developer
+Front End Web Developer
 ------------------------
 
-As a web developer,I specialize in building high-quality websites with a focus on performance, scalability, and user experience. My expertise allows me to create dynamic and responsive web applications that meet the unique needs of my clients. I am proficient in a variety of modern technologies and frameworks, including React.js, Next.js, TypeScript, TailwindCSS.
+I'm a front-end web developer passionate about building beautiful, user-friendly, and performant web experiences.  I specialize in modern front-end technologies including:
 
-*   🌍  I'm based in Dhaka
+React.js
+Next.js
+JavaScript (ES6+)
+TypeScript
+Tailwind CSS
+
+*   🌍  I'm based in Dhaka, Bangladesh
 *   ✉️  You can contact me at [theshamimahsan@gmail.com](mailto:theshamimahsan@gmail.com)
 
 ### Skills 
